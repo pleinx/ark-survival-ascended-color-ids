@@ -1,5 +1,6 @@
 # ark-survival-ascended-color-ids
-A list of all Color IDs from [www.ark.wiki.gg](https://ark.wiki.gg/wiki/Color_IDs) as in different formats (csv, php, javascript)
+A list of all Color IDs from [www.ark.wiki.gg](https://ark.wiki.gg/wiki/Color_IDs) in different useful formats (csv, php, javascript).
+You can also grab the plain list (see fetch script) and put it into AI to convert in your needed format. Enjoy! :-)
 
 
 # PHP Array
